@@ -19,6 +19,12 @@ namespace GitTest
         public static void feature2By002()
         {
             ///feature2;
+            ///
+        }
+
+        static void Features1By001()
+        {
+
         }
     }
 }
