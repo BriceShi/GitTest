@@ -20,10 +20,5 @@ namespace GitTest
         {
 
         }
-
-        static void Features3By001()
-        {
-
-        }
     }
 }
