@@ -26,5 +26,10 @@ namespace GitTest
             //222222
             //44444
         }
+
+        static void F001()
+        {
+
+        }
     }
 }
