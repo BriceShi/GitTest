@@ -30,12 +30,14 @@ namespace GitTest
             //44444
             //55
             //666
+            //fixbug003
         }
 
         static void F001()
         {
             //001
-            /fixbug001
+            //fixbug001
+                //fixbug002
         }
     }
 }
