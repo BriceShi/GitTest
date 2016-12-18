@@ -13,7 +13,7 @@ namespace GitTest
         }
         static void F1()
         {
-
+            //fixbug 2
         }
 
         static void Features1By001()
