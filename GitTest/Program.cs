@@ -19,6 +19,7 @@ namespace GitTest
         static void Features1By001()
         {
             //000
+            //fixbug 1
         }
     }
 }
